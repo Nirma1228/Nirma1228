@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nirma Bandara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+🌱 I’m currently learning **Cybersecurity and Networking**  
+🧑‍🎓 I’m an Undergraduate at **University of Kelaniya**  
+💬 Ask me about **Web Development**   
+📫 Reach me at: [nirmanethmini@gmail.com](mailto:nirmanethmini@gmail.com) 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nirma1228&label=Profile%20views&color=0e75b6&style=flat" alt="Nirma1228" /> </p>
 
 <h3 align="center">My Statistics:</h3>
