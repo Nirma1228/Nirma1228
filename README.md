@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirma Bandara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-🌱 I’m currently learning **Cybersecurity and Networking**  
+🌱 I’m currently learning **DevOps and Cloud Technologies**  
 🧑‍🎓 I’m an Undergraduate at **University of Kelaniya**  
 💬 Ask me about **Web Development**   
 📫 Reach me at: [nirmanethmini@gmail.com](mailto:nirmanethmini@gmail.com) 
